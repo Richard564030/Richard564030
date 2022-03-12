@@ -1,0 +1,4 @@
+- Hi, I’m Richard!
+- I’m interested in modding for `Civilization VI`.
+- I’m currently learning `sql`, `xml`, `python` and `lua`.
+- Reach me by Richard_Civ6Fan@outlook.com.
